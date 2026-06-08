@@ -48,7 +48,12 @@ To analyze FDA FAERS adverse event reports and identify reporting patterns, seri
 └── FAERS_Analysis_PowerBI.pdf
 
 ## Dashboard Preview
-See `FAERS_Analysis_PowerBI.pdf` for full dashboard
+
+### Main Dashboard
+![Dashboard](dashboard.png)
+
+### Drug Risk Analysis & Key Insights
+![Insights](insight.png)
 
 ## Limitations
 FAERS is a spontaneous reporting system and is primarily used for signal detection. Report counts do not represent incidence rates and cannot establish causality between a drug and an adverse event.
